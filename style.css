@@ -1,0 +1,31 @@
+body{
+    margin: 0 auto;
+    width: 90%;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 45px;
+    margin: 2em;
+    border-bottom: 1px solid gray;
+    margin: 0;
+    padding: 20px;
+}
+
+#grid > ol{
+    border-bottom: 1px solid gray;
+    list-style-type: none;
+    display: flex;
+    margin-top: 0;
+    padding: 20px;
+}
+#grid > ol > li{
+    margin-right: 2em;
+}
+#grid{
+    display: center;
+}
+
